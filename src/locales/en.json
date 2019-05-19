@@ -1,5 +1,11 @@
 {
+  "opportunities": "Opportunities",
+  "diagnostics": "Diagnostics",
+  "passed-audits": "Passed audits",
+  "data-fetching": "Data fetching",
+  "close": "Close",
   "messages": {
-    "invalid-data-from-server": "Invalid data came rom server"
+    "invalid-data-from-server": "Invalid data came from server",
+    "fetching-successful": "Data successfully received"
   }
 }
